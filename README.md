@@ -13,8 +13,7 @@ It was developed by **organization** in **date** and is documented at **link**.
 
 ### 1.1 Domain Description
 This section provides background for the project, including its motivation.
-It expected that this section be substantial. It motivates the project and gives the reader background to understand the project and how your team's proposed software relates to the project. 
-- An overview of the topic/field. This is high-level background to provide some basic context. 
+- An overview of the topic/field. This is high-level background of the field in general, not the specific project.
 - Motivation for the project. What were the issues/challenges/inquiries that the project was developed to address?
 - Specific context for the project. How does it compare to existing solutions, if they exist. Did new technology enable the project to be made when it could not before? Was there a heightened interest or need for this project because of significant events? 
 - What does the reader need to know about the topic to understand the purpose and description of either the existing project or your team's proposed software. 
