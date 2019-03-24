@@ -41,4 +41,8 @@ this description is for the actual software that the code in class is a prototyp
 
 
 ## 2 Software Design
-_Coming soon. We will work on part 1 first._
+
+Will discuss in class. Below is an example. 
+
+![Example Design](martian_weather.png)
+
